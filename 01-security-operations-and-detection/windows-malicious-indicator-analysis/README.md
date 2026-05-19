@@ -14,7 +14,7 @@ The analysis combined:
 - persistence artifact analysis
 - network connection review
 - packet inspection
-- suspicious executable analysis
+- unauthorized executable analysis
 
 Cross-artifact correlation significantly improved visibility into persistence mechanisms, anomalous communication behavior, and suspicious execution activity.
 
@@ -150,7 +150,7 @@ Observed indicators included:
 - svch0st.exe
 - winhelper.EXE
 - persistence-related startup entries
-- anomalous outbound communication
+- unauthorized outbound communication
 - established external sessions
 - unusual executable placement
 
